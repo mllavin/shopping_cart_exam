@@ -1,5 +1,5 @@
 
-## Description
+# Amaysim Shopping Cart Exercise
 
 This is a Java implementation of the Amaysim Shopping Cart Exercise.
 
@@ -31,3 +31,6 @@ Then open this file to see the test results:
 ```
 ../build/reports/tests/test/index.html
 ```
+
+#### Author
+* Mervin Lavin
