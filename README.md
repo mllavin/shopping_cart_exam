@@ -6,7 +6,7 @@ This is a Java implementation of the Amaysim Shopping Cart Exercise
 ## Requirements
 
 1. Java 1.8 installed
-2. JAVA_HOME environment variable set to point to (i)
+2. JAVA_HOME environment variable set to point to (1)
 
 ## How to run the program
 
